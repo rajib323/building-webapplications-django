@@ -21,16 +21,17 @@ https://ngrok.com/
 unzip download zipfile 
 ![alt text](https://github.com/adi323/building-webapplications-django/blob/main/ngrok1.png)
 
-now run the selected command in the ngrok extracted folder
+now run the selected command in the ngrok.exe extracted folder
 then run 
 ```
 ngrok http 8000
 ```
 
-select the link 
+
 ![alt text](https://github.com/adi323/building-webapplications-django/blob/main/ngrok.png)
 
-Paste this into Coursera Assignment
-Assignemnt 1 : link/admin
-Assignemnt 3 & 4: link except /
+select the link
+\nPaste this into Coursera Assignment
+\nAssignemnt 1 : link/admin
+\nAssignemnt 3 & 4: link except /
 
