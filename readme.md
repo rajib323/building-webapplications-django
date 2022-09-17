@@ -1,3 +1,6 @@
+First dwonload entire repo from here.
+![alt text](https://github.com/adi323/building-webapplications-django/blob/main/gitdownload.png)
+
 install python in system.
 
 set "C:\Python310" in env files.
