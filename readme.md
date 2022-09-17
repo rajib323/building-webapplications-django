@@ -1,4 +1,4 @@
-First dwonload entire repo from here.
+First download entire repo from here.
 ![alt text](https://github.com/adi323/building-webapplications-django/blob/main/gitdownload.png)
 
 install python in system.
@@ -31,5 +31,6 @@ select the link
 ![alt text](https://github.com/adi323/building-webapplications-django/blob/main/ngrok.png)
 
 Paste this into Coursera Assignment
-
+Assignemnt 1 : link/admin
+Assignemnt 3 & 4: link except /
 
