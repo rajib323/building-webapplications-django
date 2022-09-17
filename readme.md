@@ -31,7 +31,7 @@ ngrok http 8000
 ![alt text](https://github.com/adi323/building-webapplications-django/blob/main/ngrok.png)
 
 select the link
-\nPaste this into Coursera Assignment
-\nAssignemnt 1 : link/admin
-\nAssignemnt 3 & 4: link except /
+<br/>Paste this into Coursera Assignment
+<br/>Assignemnt 1 : link/admin
+<br/>Assignemnt 3 & 4: link except /
 
