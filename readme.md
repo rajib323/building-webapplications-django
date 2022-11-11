@@ -1,3 +1,6 @@
+First download entire repo from here.
+![alt text](https://github.com/adi323/building-webapplications-django/blob/main/gitdownload.png)
+
 install python in system.
 
 set "C:\Python310" in env files.
@@ -18,15 +21,17 @@ https://ngrok.com/
 unzip download zipfile 
 ![alt text](https://github.com/adi323/building-webapplications-django/blob/main/ngrok1.png)
 
-now run the selected command in the ngrok extracted folder
+now run the selected command in the ngrok.exe extracted folder
 then run 
 ```
 ngrok http 8000
 ```
 
-select the link 
+
 ![alt text](https://github.com/adi323/building-webapplications-django/blob/main/ngrok.png)
 
-Paste this into Coursera Assignment
-
+select the link
+<br/>Paste this into Coursera Assignment
+<br/>Assignemnt 1 : link/admin
+<br/>Assignemnt 3 & 4: link except /
 
